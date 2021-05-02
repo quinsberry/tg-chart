@@ -1,6 +1,6 @@
 # Telegram chart
 
-This is a TS solution for Telegram charts.
+This is a native TS solution for Telegram charts <br/>
 [Link to site](https://unruffled-swirles-da0c13.netlify.app/)
 
 ## How to start the application
