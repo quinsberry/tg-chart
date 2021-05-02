@@ -125,7 +125,7 @@ export function chart(root: HTMLElement, data: Data): ChartOutput {
 
     function onMouseLeave() {
         proxy.mouse.coords.x = undefined
-        // tip.hide()
+        tip.hide()
     }
 
     function clearCanvas() {
